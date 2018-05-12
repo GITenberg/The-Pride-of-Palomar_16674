@@ -1,0 +1,48 @@
+_repo: The-Pride-of-Palomar_16674
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Cornwell, Dean
+    birthdate: &id001 1892
+    deathdate: 1960
+    gutenberg_agent_id: '37101'
+    url: http://www.gutenberg.org/2009/agents/37101
+  - agent_name: Ballinger, Harry Russell
+    alias: Ballinger, H. R. (Harry Russell)
+    birthdate: *id001
+    deathdate: 1993
+    gutenberg_agent_id: '36190'
+    url: http://www.gutenberg.org/2009/agents/36190
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kyne, Peter B. (Peter Bernard)
+    alias: Kyne, Peter Bernard
+    birthdate: 1880
+    deathdate: 1957
+    gutenberg_agent_id: '1858'
+    url: http://www.gutenberg.org/2009/agents/1858
+    wikipedia: http://en.wikipedia.org/wiki/Peter_B._Kyne
+description: This is an electronic edition of the complete book complemented by author
+  biography. This book features a table of contents linked to every chapter. The book
+  was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
+  readers. It is formatted to display on all electronic devices including the Kindle,
+  Smartphones and other Mobile Devices with a small display.
+gutenberg_issued: '2005-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Asian Americans -- Fiction'
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'California -- Fiction'
+title: The Pride of Palomar
+url: http://www.gutenberg.org/ebooks/16674
